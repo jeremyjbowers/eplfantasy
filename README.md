@@ -8,7 +8,7 @@ mkvirtualenv eplfantasy && cd eplfantasy && pip install -r requirements.txt
 ```
 
 ## TODO
-[x] Write scraper.
-[] Write analysis tools.
-[] Fold in predictions for team scores in upcoming games.
-[] Automate initial player data.
+- [x] Write scraper.
+- [ ] Write analysis tools.
+- [ ] Fold in predictions for team scores in upcoming games.
+- [ ] Automate initial player data.
